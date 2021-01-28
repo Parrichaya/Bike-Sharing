@@ -1,4 +1,4 @@
-# Bike-Sharing_Linear-Regression
+# Bike-Sharing
 A multiple linear regression model for the prediction of demand for shared bikes.
 
 # Problem Statement
